@@ -1,0 +1,21 @@
+{
+  "name": "prueba-qa-coordinadora",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1"
+  },
+  "dependencies": {
+    "@serenity-js/core": "^3.31.8",
+    "@serenity-js/playwright": "^3.31.8"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
