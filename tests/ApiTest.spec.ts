@@ -11,8 +11,6 @@ test("API Guia coordinadora", async ({ playwright }) => {
 
   expect (body.data).toHaveProperty("valorRecaudar",38500);
   expect (body.data).toHaveProperty("referenciaRecaudo","Prueba QA coordinadora");
-
-
 });
 
 
